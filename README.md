@@ -1,4 +1,4 @@
-# 15Puzzle
+# Maturitní práce - INFAP - 15Puzzle
 
 Maturitní práce z Informatiky a programování na Gymnáziu Vysoké Mýto.
 
